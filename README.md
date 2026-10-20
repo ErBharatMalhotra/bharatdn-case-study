@@ -4,9 +4,11 @@
 
 # Bharat Digital Network - architecture case study
 
-**14 live properties. 330+ city guides. 275+ tools. One pipeline. Built solo in about four months.**
+**14 live properties. 330+ city guides. 275+ tools. One pipeline. Built solo in 2026.**
 
 **Connecting India, city by city.**
+
+**Build window:** 2026 (~4 months), using an AI-assisted pipeline with schema, link and fact validation gates.
 
 This repository documents how [bharatdn.com](https://bharatdn.com) is put together.
 The core code is private; this is the architecture, the decisions and the proof.
