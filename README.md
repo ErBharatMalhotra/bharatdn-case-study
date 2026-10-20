@@ -1,10 +1,12 @@
 <a href="https://bharatdn.com">
-  <img src="assets/bharatdn-home.webp" alt="Bharat Digital Network - 359 live city pages" width="100%">
+  <img src="assets/bharatdn-home.webp" alt="Bharat Digital Network homepage" width="100%">
 </a>
 
 # Bharat Digital Network - architecture case study
 
-**14 live properties. 359 city pages. 275+ tools. One pipeline. Built solo in about four months.**
+**14 live properties. 330+ city guides. 275+ tools. One pipeline. Built solo in about four months.**
+
+**Connecting India, city by city.**
 
 This repository documents how [bharatdn.com](https://bharatdn.com) is put together.
 The core code is private; this is the architecture, the decisions and the proof.
@@ -20,7 +22,7 @@ build pipeline:
 
 | Property | What it does |
 |---|---|
-| [bharatdn.com](https://bharatdn.com) | Network index, 359 city guides, stats and activity feed |
+| [bharatdn.com](https://bharatdn.com) | Network index, 330+ city guides, stats and activity feed |
 | [ielts.bharatdn.com](https://ielts.bharatdn.com) | Computer-delivered IELTS practice |
 | [pte.bharatdn.com](https://pte.bharatdn.com) | PTE practice with AI scoring and progress tracking |
 | [french](https://french.bharatdn.com) · [german](https://german.bharatdn.com) · [spanish](https://spanish.bharatdn.com) · [japanese](https://japanese.bharatdn.com) · [korean](https://korean.bharatdn.com) · [mandarin](https://mandarin.bharatdn.com) | Six language hubs (A1-B1 / JLPT N5-N1) |
@@ -78,7 +80,7 @@ number changes by design - the pipeline is the product.
 
 ## Programmatic SEO rules
 
-359 city pages only work if each page deserves to exist:
+330+ city guides only work if each page deserves to exist:
 
 - real data per city (population, district, state, weather, local links)
 - a published [methodology](https://bharatdn.com/methodology)
